@@ -1,0 +1,79 @@
+Lista01-CPE
+
+  1-Hardware ou Software:
+1- CPU - Hardware
+2-Disco rígido - Hardware
+3-Programa Word - Software
+4-Instagram - Software
+5-Teclado - Hardware
+
+2-O que é software e sua importância? Software é um conjunto de instruções que dizem ao hardware como funcionar. Sua importância está em permitir que os usuários realizem tarefas específicas, como editar textos, navegar na internet, etc.
+
+3-Definição de algoritmo: Um algoritmo é uma sequência de passos ou instruções para resolver um problema ou realizar uma tarefa.
+
+4-Exemplos de software:
+Medicina: sistemas de prontuário eletrônico.
+Ciência: software de análise de dados como R.
+Entretenimento: plataformas de streaming como Netflix.
+
+5-Softwares que facilitam e complicam a vida:
+Facilitam: aplicativos de organização (ex.: Todoist).
+Complicam: software com muitos anúncios ou complexos (ex.: algumas ferramentas de edição).
+
+6-Atividade diária e computação: Ao fazer compras online, utilizo um computador ou smartphone, que envolve computação.
+
+7-Atividade sem computadores: Preparar uma refeição é uma atividade que não depende de computadores.
+
+8-Programas que utilizo:
+
+Navegador- Chrome
+Editor de código- VS Code
+Social- WhatsApp
+
+9-Atividades que não utilizam computadores:
+Ler um livro.
+Andar de bicicleta.
+Jogar futebol.
+Pintar uma tela.
+Cozinhar.
+Fazer jardinagem.
+Conversar pessoalmente.
+Escutar música em um rádio.
+Escrever à mão.
+Praticar um esporte.
+
+10- Inteligência artificial e empregos na computação: A IA pode automatizar tarefas, mas também cria novas oportunidades de trabalho, exigindo habilidades diferentes. Não necessariamente acabará com empregos, mas mudará a forma de atuação de cada área de trabalho.
+
+11- Capacidade do computador:
+Processamento: Intel i79
+Memória: 8 GB RAM.
+Armazenamento: 256 GB SSD.
+
+12-Algoritmo para resolver um cubo mágico:
+Formar a cruz na face superior.
+Completar a camada superior.
+Resolver a camada do meio.
+Completar a camada inferior.
+
+13-Diferença entre bit e byte: Um bit é a menor unidade de informação (0 ou 1). Um byte é composto por 8 bits.
+
+14- Representação de números reais em binário: Números reais são representados em binário usando a notação de ponto flutuante.
+
+15- Converter 150 para binário:
+Dividir 150 por 2, anotar o quociente e o resto.
+Repetir com o quociente até chegar a 0.
+Ler os restos de baixo para cima: 10010110.
+
+16-Papel no Scrum:
+Scrum Master: Facilita o processo, remove obstáculos.
+Dono do Produto: Define prioridades e requisitos do projeto.
+Time de Desenvolvimento: Executa as tarefas e desenvolve o produto.
+
+17-Comandos linha de comando:
+Mover: mv origem destino
+Copiar: cp origem destino
+Remover: rm arquivo
+
+18-Padrão IEEE:
+Para WiFi: IEEE 802.11
+Para Bluetooth: IEEE 802.15.1
